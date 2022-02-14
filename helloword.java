@@ -1,5 +1,7 @@
 public class HelloWord{
   public static vaoid main(){
-    sistem.out.println("halo black furqon ha");
+
+    sistem.out.println("Arya");
+
   }
 }

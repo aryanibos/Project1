@@ -1,5 +1,7 @@
 # Project1
 Ini Adalah Project Pertama Saya
 
-Branch = Cabang
+-Branch = Cabang
+
+-Main = Brach Utamanya
 
