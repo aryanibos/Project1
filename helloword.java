@@ -1,5 +1,5 @@
 public class HelloWord{
   public static vaoid main(){
-    sistem.out.println(oi kiyomasaa)
+    sistem.out.println(oi kiyomasaa);
   }
 }
